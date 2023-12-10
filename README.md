@@ -1,4 +1,4 @@
-# plusw-class-7-task-2
+# plusw-class-7-task-1
 
 
 At first AWS instance is launched and connected through git bash 
