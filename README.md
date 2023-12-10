@@ -14,7 +14,11 @@ then the demo "name my pet" website github is cloned into my local machine
 
 ![image](https://github.com/mooorey/plusw-class-7-task-2/assets/59121431/27067855-7829-435b-987f-b18934b632a0)
 
-docker compose is installed 
+then we make a .env file and add our chat gpt token in it 
+
+![image](https://github.com/mooorey/plusw-class-7-task-1/assets/59121431/a3e4a2b1-7b48-4e2e-8962-a83703efbe6e)
+
+then docker compose is installed 
 
 ![image](https://github.com/mooorey/plusw-class-7-task-2/assets/59121431/bb11637b-4cf5-471e-86ac-9e17b3f45c2a)
 
